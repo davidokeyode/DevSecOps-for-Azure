@@ -4,7 +4,7 @@
     "parameters": {
         "vmName": {
             "type": "string",
-            "defaultValue": "DevSecOps-Lab-VM",
+            "defaultValue": "DevSecOps-LabVM",
             "metadata": {
                 "description": "The name of you Virtual Machine."
             }
