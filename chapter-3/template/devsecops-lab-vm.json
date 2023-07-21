@@ -250,7 +250,7 @@
         {
             "type": "Microsoft.Compute/virtualMachines/extensions",
             "apiVersion": "2019-07-01",
-            "name": "DevSecOps-Lab-VM/devsecops-lab-vm-post-install",
+            "name": "DevSecOps-LabVM/devsecops-lab-vm-post-install",
             "location": "[resourceGroup().location]",
             "tags": {
                 "displayName": "App deployment script for VM"
